@@ -1,9 +1,5 @@
 1. Dumb and Dumber
-<<<<<<< HEAD
 2. Fight Club
-=======
-2. KarateKID
->>>>>>> e6789f374d3fa547e07d9ce4c31ef506e4b29063
 3. Batman
 4. Butterfly Effect
 5. Sixth Sense
